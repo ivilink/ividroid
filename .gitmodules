@@ -1,0 +1,6 @@
+[submodule "iviLink"]
+	path = jni/iviLink
+	url = git://github.com/ivilink/iviLink.git
+[submodule "jni/iviLink"]
+	path = jni/iviLink
+	url = git://github.com/ivilink/iviLink.git
